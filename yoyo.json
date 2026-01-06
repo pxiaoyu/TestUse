@@ -1,0 +1,30 @@
+{
+  "vod": [
+    {
+      "name": "豆瓣精选",
+      "version": 3,
+      "remark": "公众号",
+      "webSite": "https://movie.douban.com",
+      "codeID": "SiU95hHc6tmlpYMzdZ8CgCi6izNKs2dT",
+      "order": "A00",
+      "api": "https://raw.githubusercontent.com/YYDS678/uzVideo-extensions/main/vod/js/Jian_douban2.txt",
+      "type": 101
+    },
+    {
+      "name": "❤bilibili直播",
+      "version": 9,
+      "remark": "公众号",
+      "env": "bili_cookie##bili_cookie 用于获取个性化推荐和高清视频",
+      "webSite": "doubi",
+      "codeID": "9Djl2QaDMOIgvhl8tYAhdVowEsmuPZpA",
+      "order": "B",
+      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_doubi.txt",
+      "type": 101
+    },
+    {
+      "name": "❤测试啦",
+      "remark": "哟哟",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+    }
+  ]
+}
